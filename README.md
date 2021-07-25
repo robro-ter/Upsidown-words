@@ -6,4 +6,4 @@ it oly works with lower case like this:
 ʇɥᴉs ᴉs qɐsᴉɔɐʅʅʎ ƃᴉqqǝɹᴉsɥ
 
 don't forget to "pip install pynput"
-and "pip3 install keyboard" in command line
+and "pip3 install keyboard" in command line, also use python the most recent version of python
